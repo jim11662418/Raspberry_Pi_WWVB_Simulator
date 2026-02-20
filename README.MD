@@ -6,5 +6,4 @@ A Raspberry Pi is used to simulate the [WWVB](https://en.wikipedia.org/wiki/WWVB
 The ferrite rod antenna was cannibalized from a cheap WWVB/60KHz Radio Time Receiver Module purchased from AliExpress. The inductance was measured with an LCR meter and then the capacitor was chosen to make the circuit resonate at 60 KHz.
 <br>
 <br>
-Thanks to Anton Poluektov [wwvb](https://github.com/apoluekt/raspberry-wwvb) https://github.com/apoluekt/raspberry-wwvb) for 'wwvb.c'.
-<a href="https://github.com/apoluekt/raspberry-wwvb">wwvb.c</a>
+Thanks to Anton Poluektov for <a href="https://github.com/apoluekt/raspberry-wwvb">wwvb.c</a>.
