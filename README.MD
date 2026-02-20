@@ -1,4 +1,4 @@
-A Raspberry Pi is used to simulate the WWVB signal to set radio controlled "Atomic Clocks".
+A Raspberry Pi is used to simulate the [WWVB](https://en.wikipedia.org/wiki/WWVB) signal to set radio controlled "Atomic Clocks".
 <video src="https://github.com/user-attachments/assets/4b6c3f0f-6605-4b91-aebe-df69e2da1e5e"></video>
 <p align="center">The LED flashes for each bit of the time signal transmitted</p><br>
 <p align="center"><img src="/images/WWVB Transmitter Antenna.png"/>
