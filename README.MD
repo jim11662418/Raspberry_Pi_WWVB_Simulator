@@ -7,3 +7,4 @@ The ferrite rod antenna was cannibalized from a cheap WWVB/60KHz Radio Time Rece
 <br>
 <br>
 Thanks to Anton Poluektov [wwvb](https://github.com/apoluekt/raspberry-wwvb) https://github.com/apoluekt/raspberry-wwvb) for 'wwvb.c'.
+<a href="https://github.com/apoluekt/raspberry-wwvb">wwvb.c</a>
